@@ -1,4 +1,4 @@
-// copyLink =(element) => {
-//     document.getElementById(element).select();
-//     document.execCommand("copy");
-//            }
+copyLink =(element) => {
+    document.getElementById(element).select();
+    document.execCommand("copy");
+           }
