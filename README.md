@@ -25,7 +25,7 @@ You Require to install
 
 ## Set-up and Installation methods
 
- # install and activate virtual-environment
+ ## Install and activate virtual-environment
  * - python3 -m venv virtual
  * - source virtual/bin/activate  
 
